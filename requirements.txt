@@ -12,7 +12,7 @@ pyparsing==2.4.7
 pypptx==0.2.2
 pytest==6.2.4
 python-pptx==0.5.7
-PyYAML==3.11
+PyYAML==5.4
 scipy==1.7.1
 toml==0.10.2
 Wand==0.6.7
